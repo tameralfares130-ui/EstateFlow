@@ -91,3 +91,6 @@ pnpm-debug.log*
 *.bak
 .DS_Store
 Thumbs.db
+.vs/
+**/bin/
+**/obj/
